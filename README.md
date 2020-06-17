@@ -16,3 +16,17 @@ https://www.mk-mode.com/rails/loto/numbers3
 ## 彩票类型：NUMBER4
 四位数，规则同上<br>
 https://www.takarakujinet.co.jp/numbers4/index.html
+
+## 彩票类型：LOTO6
+43数中无重复取6数，每周两次抽奖<br>
+https://www.takarakujinet.co.jp/loto6/index.html
+
+## 彩票类型：LOTO7
+37数中无重复取7数，每周一次抽奖<br>
+https://www.takarakujinet.co.jp/loto6/index.html
+
+## 行星坐标
+NASA的行星数据<br>
+https://naif.jpl.nasa.gov/pub/naif/<br>
+skyfield计算库<br>
+https://rhodesmill.org/skyfield/
