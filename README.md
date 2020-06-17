@@ -6,7 +6,7 @@
 对多种预测方法进行了研究，目前根据太阳系大星体的距离进行拟合，可以获得比随机概率更高的中奖率。
 
 # 研究对象
-## NUNBER3
+## NUMBER3
 三位数，可以重复，中奖可以顺序一致或数一致<br>
 每周周一至周五抽奖<br>
 https://www.takarakujinet.co.jp/numbers3/index.html
