@@ -8,6 +8,7 @@
 # 研究对象
 ## NUNMBER3
 三位数，可以重复，中奖可以顺序一致或数一致
+每周周一至周五抽奖
 https://www.takarakujinet.co.jp/numbers3/index.html
 
 过去中奖号码下载
