@@ -7,13 +7,13 @@
 
 # 研究对象
 ## NUNMBER3
-三位数，可以重复，中奖可以顺序一致或数一致
-每周周一至周五抽奖
+三位数，可以重复，中奖可以顺序一致或数一致<br>
+每周周一至周五抽奖<br>
 https://www.takarakujinet.co.jp/numbers3/index.html
-
-过去中奖号码下载
+<br>
+过去中奖号码下载<br>
 https://www.mk-mode.com/rails/loto/numbers3
 
 ## NUNMBER4
-四位数，规则同上
+四位数，规则同上<br>
 https://www.takarakujinet.co.jp/numbers4/index.html
